@@ -30,7 +30,7 @@ const services = [
     desc: "Certified waterproofing membranes for showers, wet areas, and external surfaces.",
     icon: ShieldCheck,
     image:
-      "https://images.unsplash.com/photo-1607400201515-c2c41c9d03ea?w=700&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1656646523682-f567bf2f28da?w=700&q=80&auto=format&fit=crop",
     size: "medium",
   },
   {
@@ -54,7 +54,7 @@ const services = [
     desc: "Warm tile floors with concealed electric heating systems.",
     icon: Thermometer,
     image:
-      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1656646523907-97b094c7e63a?w=600&q=80&auto=format&fit=crop",
     size: "third",
   },
   {

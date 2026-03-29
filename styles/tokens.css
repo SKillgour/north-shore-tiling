@@ -1,0 +1,17 @@
+:root {
+  --color-primary: #1f2d3d;
+  --color-accent: #c4693b;
+  --color-accent-hover: #a85530;
+  --color-bg: #fafaf8;
+  --color-surface: #f0ece6;
+  --color-dark-surface: #1f2d3d;
+  --color-text: #1f2d3d;
+  --color-text-muted: #6b7585;
+  --color-text-on-dark: #f4f0eb;
+  --font-heading: 'DM Serif Display', serif;
+  --font-body: 'DM Sans', sans-serif;
+  --radius: 2px;
+  --radius-lg: 4px;
+  --transition: 0.25s ease;
+  --container: 1200px;
+}

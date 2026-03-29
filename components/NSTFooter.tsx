@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Phone, Mail, Facebook, MapPin } from "lucide-react";
+import { Phone, Mail, ExternalLink, MapPin } from "lucide-react";
 
 export default function NSTFooter() {
   const year = new Date().getFullYear();
@@ -27,7 +27,7 @@ export default function NSTFooter() {
                 </a>
               </li>
               <li className="nst-footer-contact-item">
-                <Facebook className="nst-footer-contact-icon" />
+                <ExternalLink className="nst-footer-contact-icon" />
                 <a
                   href="https://www.facebook.com/northshoretiling.nz"
                   target="_blank"

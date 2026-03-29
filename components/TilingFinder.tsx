@@ -109,13 +109,6 @@ export default function TilingFinder() {
                 Where is the tiling needed?
               </p>
               <div className="nst-finder-options">
-                {[
-                  { value: "bathroom", label: "Bathroom" },
-                  { value: "kitchen", label: "Kitchen" },
-                  { value: "outdoor", label: "Outdoor / Deck" },
-                  { value: "floor", label: "Floor / Other Indoor" },
-                  { value: "other", label: "Commercial Space" },
-                ] as { value: Step1Answer; label: string }[]}
                 {(
                   [
                     { value: "bathroom" as Step1Answer, label: "Bathroom" },
